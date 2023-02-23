@@ -1,18 +1,27 @@
 # github.com/codegangsta/cli v1.20.0
+## explicit
 github.com/codegangsta/cli
 # github.com/davecgh/go-spew v1.1.1
+## explicit
 github.com/davecgh/go-spew/spew
 # github.com/mattn/go-runewidth v0.0.3
+## explicit
 github.com/mattn/go-runewidth
 # github.com/olekukonko/tablewriter v0.0.1
+## explicit
 github.com/olekukonko/tablewriter
 # github.com/pkg/errors v0.8.0
+## explicit
 github.com/pkg/errors
 # github.com/pmezard/go-difflib v1.0.0
+## explicit
 github.com/pmezard/go-difflib/difflib
 # github.com/stretchr/testify v1.2.2
+## explicit
 github.com/stretchr/testify/assert
-# golang.org/x/net v0.0.0-20181029044818-c44066c5c816
+# golang.org/x/net v0.7.0
+## explicit; go 1.17
 golang.org/x/net/context
 # golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
+## explicit
 golang.org/x/time/rate
